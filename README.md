@@ -52,3 +52,11 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> O ano é 1771. Na Carolina do Norte, conserva-se a duras penas um frágil equilíbrio entre a aristocracia colonial e os esforçados pioneiros. E entre esses dois lados prestes a entrar em conflito está Jamie Fraser (Sam Heughan), um homem de honra exilado de sua amada Escócia. Convocado a liderar uma milícia para conter as insurgências, ele sabe que quebrar o juramento que fez à Coroa inglesa o tornará um traidor, mas mantê-lo será a certeza de sua ruína. A guerra se aproxima, garantiu-lhe sua esposa, Claire (Caitriona Balfe). E, mesmo não querendo acreditar nesse triste futuro, Jamie Fraser está ciente de que não pode ignorar o conhecimento que só uma viajante do tempo poderia ter. Afinal, a visão única de Claire já os colocou em risco, mas também lhes trouxe salvação. Baseada no romance "A Cruz de Fogo", de Diana Gabaldon. • 12 episódios.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] OUTLANDER 7º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6D9BDDBAC75B7AA6B670D46E17AB31F3887BF819</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aiwfRV8rOby1HDdc2DyMH1KrQEr.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nesse conto épico, um guerreiro e uma enfermeira vivem uma paixão avassaladora, mas 200 anos os separam.</info>
+</item>
